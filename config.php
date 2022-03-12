@@ -1,4 +1,4 @@
-un - local_test
-db - local-db
-pass - local-pass
+un - stag_test
+db - stag-db
+pass - stag-pass
 
